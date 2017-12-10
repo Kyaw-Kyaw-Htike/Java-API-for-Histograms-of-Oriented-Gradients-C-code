@@ -1,3 +1,5 @@
+// Copyright (C) Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
+
 #include "KKH_HogDollar_HogDollar.h"
 #include "JNI_type_converter.h"
 
