@@ -1,7 +1,7 @@
 package KKH.HogDollar;
 
 /**
- * Created by Kyaw on 19-May-17.
+ * Copyright (C) Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
  */
 public class HogDollar {
 
