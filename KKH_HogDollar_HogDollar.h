@@ -1,4 +1,4 @@
-/* Copyright (C) Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved. */
+/* Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved. */
 #include <jni.h>
 /* Header for class KKH_HogDollar_HogDollar */
 
